@@ -1,5 +1,5 @@
 # Haskell Combinator & Pattern Matching Reducer
-
+>Note: This repo is a continuation of my other repo ("Haskell_reducing_combinator_expressions") , but with drastically changed logic because of the introduction of pattern matching (lazy matching), constructors, step-visualization, and allowing multiple redexes of the same name.
 This project is a custom evaluator for a simplified, untyped subset of Haskell. Building upon basic combinator reduction, this iteration introduces value constructors and lazy pattern matching, complete with step-by-step visualization of the evaluation process.
 
 ## Key Features
